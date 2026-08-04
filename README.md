@@ -34,6 +34,8 @@ single interactive menu
 ## Installation
 
 ```bash
+git clone https://github.com/mehulparmar35/SOC-Toolkit.git
+cd SOC-Toolkit
 chmod +x SOC_Toolkit_v1.sh
 ./SOC_Toolkit_v1.sh
 ```
