@@ -77,6 +77,10 @@ v1.0.0
 - Memory Monitoring 
 - Disk Monitoring
 
+## Screenshot
+
+![SOC Toolkit v1](images/SOC-Toolkit-v1.png)
+
 ## License
 
 MIT License
